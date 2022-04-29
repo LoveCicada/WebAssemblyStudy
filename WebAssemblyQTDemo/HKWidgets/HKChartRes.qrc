@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>skins/flight/chart/add.png</file>
+        <file>skins/flight/chart/cross.png</file>
+        <file>skins/flight/chart/default.png</file>
+        <file>skins/flight/chart/fullScreen.png</file>
+        <file>skins/flight/chart/move.png</file>
+        <file>skins/flight/chart/rotate.png</file>
+        <file>skins/flight/chart/set.png</file>
+        <file>skins/flight/chart/trans.png</file>
+    </qresource>
+</RCC>
